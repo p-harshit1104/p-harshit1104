@@ -1,8 +1,9 @@
-<img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="400" align="right">
+
 
 
 <h1 align="center">Hi 👋, I'm Harshit Pandey</h1>
 <h3 align="center">A passionate DSA and Full Stack enthusiast</h3>
+<img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-harshit1104&label=Profile%20views&color=0e75b6&style=flat" alt="p-harshit1104" /> </p>
 

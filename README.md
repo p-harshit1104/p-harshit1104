@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA and Full stack**
 
-- 👨‍💻 All of my projects are available at [https://666f2ace1733a423834db57b--pandeyharshit.netlify.app/](https://666f2ace1733a423834db57b--pandeyharshit.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/p-harshit1104](https://github.com/p-harshit1104)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/harshit-pandey-46a8a3258/](https://www.linkedin.com/in/harshit-pandey-46a8a3258/)
 

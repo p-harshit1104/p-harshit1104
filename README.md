@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **harshitpandey1106@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SoOo7R-cmXRRczQvy_vNkgngYfmZdFJ7/view?usp=sharing](https://drive.google.com/file/d/1SoOo7R-cmXRRczQvy_vNkgngYfmZdFJ7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S9OQfB4Nvwifsfg11kun8sdWm_TjIAEx/view?usp=sharing]
 
 - ⚡ Fun fact **Coding is fun**
 

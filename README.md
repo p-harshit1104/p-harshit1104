@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-harshit1104&label=Profile%20views&color=0e75b6&style=flat" alt="p-harshit1104" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Backend**
 
 - 🌱 I’m currently learning **DSA and Full stack**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **harshitpandey1106@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S9OQfB4Nvwifsfg11kun8sdWm_TjIAEx/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/10J4rRuoSTuLQ8zOIjmMiOIqOIg5FVRL8/view?usp=sharing]
 
 - ⚡ Fun fact **Coding is fun**
 

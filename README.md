@@ -15,11 +15,9 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/harshit-pandey-46a8a3258/](https://www.linkedin.com/in/harshit-pandey-46a8a3258/)
 
-- 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **harshitpandey1106@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10J4rRuoSTuLQ8zOIjmMiOIqOIg5FVRL8/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1j51deCSnYCn3JFtpPZON4fe_N6NtYbyY/view?usp=sharing]
 
 - ⚡ Fun fact **Coding is fun**
 
